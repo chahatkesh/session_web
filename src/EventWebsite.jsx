@@ -46,10 +46,11 @@ const EventWebsite = () => {
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "xyz",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/sarahmiller",
-        linkedin: "https://linkedin.com/in/sarahmiller",
+        name: "Nidhi Yadav",
+        image:
+          "https://media.licdn.com/dms/image/v2/D5603AQEnNpmRcdy53A/profile-displayphoto-shrink_800_800/B56ZPlE.sFHoAc-/0/1734715115385?e=1741219200&v=beta&t=ctjAcY9slCR-kcdbw5E_iASkEwrCgXIFIQL0Zi8Eg3w",
+        github: "",
+        linkedin: "https://www.linkedin.com/in/nidhi-yadav-821404290/",
       },
     },
     {
@@ -61,10 +62,11 @@ const EventWebsite = () => {
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Lisa Brown",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/lisabrown",
-        linkedin: "https://linkedin.com/in/lisabrown",
+        name: "Mohit Ranjan",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4E03AQEnsWgwGRUPAQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729770463518?e=1741219200&v=beta&t=dm_MF1vcbVN3bp1MapoFgQq2Fc9zSyYJv8Mkfq__6EI",
+        github: "",
+        linkedin: "https://www.linkedin.com/in/itsmohitr/",
       },
     },
     {
@@ -92,15 +94,15 @@ const EventWebsite = () => {
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "James Wilson",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/jameswilson",
-        linkedin: "https://linkedin.com/in/jameswilson",
+        name: "Shashank",
+        image: "",
+        github: "",
+        linkedin: "",
       },
     },
     {
       title: "UI/UX Design",
-      date: "Jan 6, 2025",
+      date: "Jan 9, 2025",
       icon: Palette,
       color: "from-orange-500 to-pink-500",
       meet: "https://meet.google.com",
@@ -108,54 +110,55 @@ const EventWebsite = () => {
       video: "https://youtube.com",
       speaker: {
         name: "Chahat Kesharwani",
-        image: "/api/placeholder/150/150",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
         github: "https://github.com/chahatkesh",
         linkedin: "https://linkedin.com/in/chahatkesharwani",
       },
     },
     {
       title: "Machine Learning & AI",
-      date: "Jan 5, 2025",
+      date: "Jan 10, 2025",
       icon: Brain,
       color: "from-purple-500 to-indigo-500",
       meet: "https://meet.google.com",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Emma Watson",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/emmawatson",
-        linkedin: "https://linkedin.com/in/emmawatson",
+        name: "Unknown",
+        image: "",
+        github: "",
+        linkedin: "",
       },
     },
     {
       title: "Git and GitHub",
-      date: "Jan 9, 2025",
+      date: "Jan 11, 2025",
       icon: Github,
       color: "from-gray-600 to-gray-900",
       meet: "https://meet.google.com",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Rachel Kim",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/rachelkim",
-        linkedin: "https://linkedin.com/in/rachelkim",
+        name: "Unknown",
+        image: "",
+        github: "",
+        linkedin: "",
       },
     },
     {
       title: "LinkedIn",
-      date: "Jan 10, 2025",
+      date: "Jan 12, 2025",
       icon: Linkedin,
       color: "from-blue-600 to-blue-800",
       meet: "https://meet.google.com",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Tom Anderson",
-        image: "/api/placeholder/150/150",
-        github: "https://github.com/tomanderson",
-        linkedin: "https://linkedin.com/in/tomanderson",
+        name: "Unknown",
+        image: "",
+        github: "",
+        linkedin: "",
       },
     },
   ];
@@ -190,11 +193,11 @@ const EventWebsite = () => {
           <div className="flex flex-col md:flex-row items-center gap-8 mb-12">
             <div className="flex items-center gap-2">
               <Calendar className="w-5 h-5 text-blue-400" />
-              <span>January 4-13, 2025</span>
+              <span>January 4-12, 2025</span>
             </div>
             <div className="flex items-center gap-2">
               <Clock className="w-5 h-5 text-blue-400" />
-              <span>04:00 AM - 04:45 PM</span>
+              <span>04:00 PM</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-5 h-5 text-blue-400" />
