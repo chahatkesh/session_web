@@ -101,8 +101,24 @@ const EventWebsite = () => {
       },
     },
     {
-      title: "UI/UX Design",
+      title: "Machine Learning & AI",
       date: "Jan 9, 2025",
+      icon: Brain,
+      color: "from-purple-500 to-indigo-500",
+      meet: "https://meet.google.com",
+      slides: "https://slides.com",
+      video: "https://youtube.com",
+      speaker: {
+        name: "Vatsal Khanna",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4E03AQGBwIJdp-bJeQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728579143693?e=1741219200&v=beta&t=L0B61qKKRKdE0QuTzfnsxGG81y3LLmqpW0eM2L43nFM",
+        github: "https://github.com/vatsalKhanna5/",
+        linkedin: "https://www.linkedin.com/in/vatsalkhanna/",
+      },
+    },
+    {
+      title: "UI/UX Design",
+      date: "Jan 10, 2025",
       icon: Palette,
       color: "from-orange-500 to-pink-500",
       meet: "https://meet.google.com",
@@ -114,21 +130,6 @@ const EventWebsite = () => {
           "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
         github: "https://github.com/chahatkesh",
         linkedin: "https://linkedin.com/in/chahatkesharwani",
-      },
-    },
-    {
-      title: "Machine Learning & AI",
-      date: "Jan 10, 2025",
-      icon: Brain,
-      color: "from-purple-500 to-indigo-500",
-      meet: "https://meet.google.com",
-      slides: "https://slides.com",
-      video: "https://youtube.com",
-      speaker: {
-        name: "Unknown",
-        image: "",
-        github: "",
-        linkedin: "",
       },
     },
     {
