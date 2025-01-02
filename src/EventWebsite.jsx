@@ -94,10 +94,11 @@ const EventWebsite = () => {
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Unknown",
-        image: "",
+        name: "Shashank Singh",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4D03AQFk56qhuMpoDA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699990386419?e=1741219200&v=beta&t=gSgYxhwHMj-MlxCq4M87zOR9rfyvBtLHx_miHLpxzJU",
         github: "",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/in/shashank-singh-584860280/",
       },
     },
     {
