@@ -94,7 +94,7 @@ const EventWebsite = () => {
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Shashank",
+        name: "Unknown",
         image: "",
         github: "",
         linkedin: "",
