@@ -129,8 +129,8 @@ const EventWebsite = () => {
         name: "Chahat Kesharwani",
         image:
           "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
-        github: "https://github.com/chahatkesh",
-        linkedin: "https://linkedin.com/in/chahatkesharwani",
+        github: "https://github.com/chahatkesh/",
+        linkedin: "https://linkedin.com/in/chahatkesharwani/",
       },
     },
     {
@@ -145,8 +145,8 @@ const EventWebsite = () => {
         name: "Bhavya Goyal",
         image:
           "https://media.licdn.com/dms/image/v2/D4D03AQFtBbUGF79odw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689836892765?e=1741219200&v=beta&t=1KToF_ObgbmUlia4psHyQHrCljG7v-bhfSVBnkfJZL4",
-        github: "https://www.linkedin.com/in/bhavyaspace/",
-        linkedin: "https://github.com/BhavyaSpace",
+        github: "https://github.com/BhavyaSpace/",
+        linkedin: "https://www.linkedin.com/in/bhavyaspace/",
       },
     },
     {
