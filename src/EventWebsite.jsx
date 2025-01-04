@@ -160,9 +160,9 @@ const EventWebsite = () => {
       speaker: {
         name: "Jayant Joshi",
         image:
-          "https://media.licdn.com/dms/image/v2/D5603AQFnVKuHKjGHyg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702898584147?e=1741219200&v=beta&t=xQOsqZ5QUUOS1GOc3r8ckBv763eV3k1t2BXJ0xx9mmw",
+          "https://media.licdn.com/dms/image/v2/D5635AQFtOIxrtI0X-g/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1731763231665?e=1736582400&v=beta&t=gpI2beK4vfoUnEatv7cuvmnTN4SQ5CETpPkWTta96K8",
         github: "https://github.com/JAYANTJOSHI001",
-        linkedin: "https://www.linkedin.com/in/jayant-joshi001/",
+        linkedin: "https://www.linkedin.com/in/jayant-joshi-642a79305/",
       },
     },
   ];
