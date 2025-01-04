@@ -27,7 +27,7 @@ const EventWebsite = () => {
       date: "Jan 4, 2025",
       icon: Smartphone,
       color: "from-green-500 to-teal-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -42,7 +42,7 @@ const EventWebsite = () => {
       date: "Jan 5, 2025",
       icon: Globe,
       color: "from-blue-500 to-cyan-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -58,7 +58,7 @@ const EventWebsite = () => {
       date: "Jan 6, 2025",
       icon: Shield,
       color: "from-red-500 to-orange-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -74,7 +74,7 @@ const EventWebsite = () => {
       date: "Jan 7, 2025",
       icon: Code,
       color: "from-pink-500 to-purple-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -90,7 +90,7 @@ const EventWebsite = () => {
       date: "Jan 8, 2025",
       icon: Terminal,
       color: "from-cyan-500 to-blue-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -106,7 +106,7 @@ const EventWebsite = () => {
       date: "Jan 9, 2025",
       icon: Brain,
       color: "from-purple-500 to-indigo-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -122,7 +122,7 @@ const EventWebsite = () => {
       date: "Jan 10, 2025",
       icon: Palette,
       color: "from-orange-500 to-pink-500",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -138,7 +138,7 @@ const EventWebsite = () => {
       date: "Jan 11, 2025",
       icon: Linkedin,
       color: "from-blue-600 to-blue-800",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
@@ -154,14 +154,15 @@ const EventWebsite = () => {
       date: "Jan 12, 2025",
       icon: Github,
       color: "from-gray-600 to-gray-900",
-      meet: "https://meet.google.com",
+      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides: "https://slides.com",
       video: "https://youtube.com",
       speaker: {
-        name: "Unknown",
-        image: "",
-        github: "",
-        linkedin: "",
+        name: "Jayant Joshi",
+        image:
+          "https://media.licdn.com/dms/image/v2/D5603AQFnVKuHKjGHyg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1702898584147?e=1741219200&v=beta&t=xQOsqZ5QUUOS1GOc3r8ckBv763eV3k1t2BXJ0xx9mmw",
+        github: "https://github.com/JAYANTJOSHI001",
+        linkedin: "https://www.linkedin.com/in/jayant-joshi001/",
       },
     },
   ];
