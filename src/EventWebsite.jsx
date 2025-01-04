@@ -28,7 +28,8 @@ const EventWebsite = () => {
       icon: Smartphone,
       color: "from-green-500 to-teal-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Vedant Salve",
@@ -43,7 +44,8 @@ const EventWebsite = () => {
       icon: Globe,
       color: "from-blue-500 to-cyan-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Nidhi Yadav",
@@ -59,7 +61,8 @@ const EventWebsite = () => {
       icon: Shield,
       color: "from-red-500 to-orange-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Mohit Ranjan",
@@ -75,7 +78,8 @@ const EventWebsite = () => {
       icon: Code,
       color: "from-pink-500 to-purple-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Harshvardhan Agarwal",
@@ -91,7 +95,8 @@ const EventWebsite = () => {
       icon: Terminal,
       color: "from-cyan-500 to-blue-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Shashank Singh",
@@ -107,7 +112,8 @@ const EventWebsite = () => {
       icon: Brain,
       color: "from-purple-500 to-indigo-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Vatsal Khanna",
@@ -123,7 +129,8 @@ const EventWebsite = () => {
       icon: Palette,
       color: "from-orange-500 to-pink-500",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Chahat Kesharwani",
@@ -139,7 +146,8 @@ const EventWebsite = () => {
       icon: Linkedin,
       color: "from-blue-600 to-blue-800",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Bhavya Goyal",
@@ -155,7 +163,8 @@ const EventWebsite = () => {
       icon: Github,
       color: "from-gray-600 to-gray-900",
       meet: "https://meet.google.com/rqk-usgg-rqg",
-      slides: "https://slides.com",
+      slides:
+        "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video: "https://youtube.com",
       speaker: {
         name: "Jayant Joshi",
