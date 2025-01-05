@@ -30,7 +30,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Vedant Salve",
         image: "https://avatars.githubusercontent.com/u/173059390?v=4",
@@ -46,7 +47,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Nidhi Yadav",
         image:
@@ -63,7 +65,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Mohit Ranjan",
         image:
@@ -80,7 +83,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Harshvardhan Agarwal",
         image:
@@ -97,7 +101,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Shashank Singh",
         image:
@@ -114,7 +119,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Vatsal Khanna",
         image:
@@ -131,7 +137,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Chahat Kesharwani",
         image:
@@ -148,7 +155,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Bhavya Goyal",
         image:
@@ -165,7 +173,8 @@ const EventWebsite = () => {
       meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
-      video: "https://youtube.com",
+      video:
+        "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Jayant Joshi",
         image:
