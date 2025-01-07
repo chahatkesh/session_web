@@ -5,6 +5,7 @@ import {
   MapPin,
   Code,
   Globe,
+  Instagram,
   Smartphone,
   Brain,
   Palette,
@@ -13,6 +14,7 @@ import {
   Github,
   Linkedin,
   ExternalLink,
+  Mail,
   Video,
   Presentation as FilePresentation,
 } from "lucide-react";
@@ -27,14 +29,14 @@ const EventWebsite = () => {
       date: "Jan 4, 2025",
       icon: Smartphone,
       color: "from-green-500 to-teal-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
         "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
         name: "Vedant Salve",
-        image: "https://avatars.githubusercontent.com/u/173059390?v=4",
+        image:
+          "https://media.licdn.com/dms/image/v2/D5603AQGUQV8LelTbDQ/profile-displayphoto-shrink_800_800/B56ZQqgaukGsAg-/0/1735879930430?e=1741824000&v=beta&t=tq2bHhyEI1MG-o77SAxcW0WGfFljip_u76LEaaYhkqI",
         github: "https://github.com/Vedant-Salve",
         linkedin: "https://www.linkedin.com/in/vedant-salve-92380b312/",
       },
@@ -44,7 +46,6 @@ const EventWebsite = () => {
       date: "Jan 5, 2025",
       icon: Globe,
       color: "from-blue-500 to-cyan-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -62,7 +63,6 @@ const EventWebsite = () => {
       date: "Jan 6, 2025",
       icon: Shield,
       color: "from-red-500 to-orange-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -80,7 +80,6 @@ const EventWebsite = () => {
       date: "Jan 7, 2025",
       icon: Code,
       color: "from-pink-500 to-purple-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -98,7 +97,6 @@ const EventWebsite = () => {
       date: "Jan 8, 2025",
       icon: Terminal,
       color: "from-cyan-500 to-blue-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -116,7 +114,6 @@ const EventWebsite = () => {
       date: "Jan 9, 2025",
       icon: Brain,
       color: "from-purple-500 to-indigo-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -134,7 +131,6 @@ const EventWebsite = () => {
       date: "Jan 10, 2025",
       icon: Palette,
       color: "from-orange-500 to-pink-500",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -152,7 +148,6 @@ const EventWebsite = () => {
       date: "Jan 11, 2025",
       icon: Linkedin,
       color: "from-blue-600 to-blue-800",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -170,7 +165,6 @@ const EventWebsite = () => {
       date: "Jan 12, 2025",
       icon: Github,
       color: "from-gray-600 to-gray-900",
-      meet: "https://meet.google.com/rqk-usgg-rqg",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
@@ -182,6 +176,25 @@ const EventWebsite = () => {
         github: "https://github.com/JAYANTJOSHI001",
         linkedin: "https://www.linkedin.com/in/jayant-joshi-642a79305/",
       },
+    },
+  ];
+
+  const organizers = [
+    {
+      name: "Chahat Kesharwani",
+      role: "Session Organiser",
+      image:
+        "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
+      github: "https://github.com/chahatkesh",
+      linkedin: "https://www.linkedin.com/in/chahatkesharwani/",
+    },
+    {
+      name: "Saumya",
+      role: "Session Organiser",
+      image:
+        "https://media.licdn.com/dms/image/v2/D4D03AQGa2CLsxKjFMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720478995462?e=1741219200&v=beta&t=00j_WHpSPxzdQ0DGPIOSCTSkqZQ7zzTzwvFLaY268Ik",
+      github: "#",
+      linkedin: "https://www.linkedin.com/in/saumya-252812274/",
     },
   ];
   return (
@@ -263,8 +276,152 @@ const EventWebsite = () => {
           </div>
         </div>
 
-        {/* Content */}
-        <div className="relative z-10">
+        {/* Timeline Content */}
+        <div className="hidden lg:block relative z-10 max-w-6xl mx-auto pt-32 px-4">
+          {/* Timeline Header */}
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-white mb-4">
+              Event Schedule
+            </h2>
+            <p className="text-blue-200 text-lg">
+              Join us for 9 days of expert-led sessions
+            </p>
+          </div>
+
+          <div className="flex flex-col items-center">
+            {sessions.map((session, index) => {
+              const Icon = session.icon;
+              const isLeft = index % 2 === 0;
+
+              return (
+                <div key={index} className="relative w-full">
+                  {/* Timeline line with gradient effect */}
+                  {index !== sessions.length - 1 && (
+                    <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-blue-400/40 to-transparent" />
+                  )}
+
+                  {/* Timeline node with pulse effect */}
+                  <div
+                    className="absolute left-1/2 transform -translate-x-1/2 flex items-center justify-center"
+                    style={{ top: "2.5rem" }}>
+                    <div className="w-4 h-4 rounded-full bg-blue-400 z-10 flex items-center justify-center">
+                      <div className="absolute w-full h-full rounded-full bg-blue-400 animate-ping opacity-75" />
+                      {/* Date label */}
+                      <div
+                        className={`absolute z-10 w-[110px] ${
+                          isLeft ? "left-[50%] ml-4" : "right-[50%] mr-4"
+                        } 
+                    text-sm text-blue-200 bg-blue-900/50 px-3 py-1 rounded-full`}>
+                        {session.date}
+                      </div>
+                    </div>
+                  </div>
+
+                  <div
+                    className={`flex ${
+                      isLeft ? "justify-start" : "justify-end"
+                    } w-full mb-16`}>
+                    <Card
+                      className={`backdrop-blur-xl bg-white/10 border-none text-white p-6 rounded-xl 
+                        transition-all duration-300 w-[calc(50%-2rem)] hover:bg-white/20
+                        ${
+                          hoveredIndex === index
+                            ? "transform scale-102 shadow-xl shadow-blue-500/20"
+                            : ""
+                        }`}
+                      onMouseEnter={() => setHoveredIndex(index)}
+                      onMouseLeave={() => setHoveredIndex(null)}>
+                      <div className="flex items-center gap-4 mb-6">
+                        <div
+                          className={`p-3 rounded-full bg-gradient-to-br ${
+                            session.color
+                          }
+                          shadow-lg shadow-${session.color.split("-")[2]}/20`}>
+                          <Icon size={24} />
+                        </div>
+                        <div>
+                          <h3 className="text-xl font-bold mb-1">
+                            {session.title}
+                          </h3>
+                          <p className="text-sm text-gray-300 flex items-center gap-2">
+                            <Clock size={12} />
+                            4:00 PM IST
+                          </p>
+                        </div>
+                      </div>
+
+                      <div className="flex items-center gap-4 mb-6 p-3 bg-black/20 rounded-lg">
+                        <img
+                          src={session.speaker.image}
+                          alt={session.speaker.name}
+                          className="w-12 h-12 rounded-full ring-2 ring-white/20"
+                        />
+                        <div>
+                          <p className="font-medium text-lg">
+                            {session.speaker.name}
+                          </p>
+                          <p className="text-sm text-gray-300">Speaker</p>
+                          <div className="flex gap-3 mt-2">
+                            {session.speaker.github && (
+                              <a
+                                href={session.speaker.github}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-gray-300 hover:text-white transition-colors flex items-center gap-1">
+                                <Github size={16} />
+                                <span className="text-sm">GitHub</span>
+                              </a>
+                            )}
+                            <a
+                              href={session.speaker.linkedin}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-gray-300 hover:text-white transition-colors flex items-center gap-1">
+                              <Linkedin size={16} />
+                              <span className="text-sm">LinkedIn</span>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div className="flex gap-3 mt-4">
+                        <a
+                          href={session.slides}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-2 text-sm bg-white/20 px-4 py-2 rounded-lg 
+                            hover:bg-white/30 transition-colors group flex-1 justify-center">
+                          <FilePresentation size={16} />
+                          <span>View Slides</span>
+                          <ExternalLink
+                            size={12}
+                            className="opacity-0 group-hover:opacity-100 transition-opacity"
+                          />
+                        </a>
+                        <a
+                          href={session.video}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-2 text-sm bg-white/20 px-4 py-2 rounded-lg 
+                            hover:bg-white/30 transition-colors group flex-1 justify-center">
+                          <Video size={16} />
+                          <span>Watch Recording</span>
+                          <ExternalLink
+                            size={12}
+                            className="opacity-0 group-hover:opacity-100 transition-opacity"
+                          />
+                        </a>
+                      </div>
+                    </Card>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* mobile view */}
+        <div className="relative z-10 lg:hidden">
           {/* Sessions Grid */}
           <div className="max-w-6xl pt-32 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-4">
             {sessions.map((session, index) => {
@@ -343,64 +500,87 @@ const EventWebsite = () => {
               );
             })}
           </div>
+        </div>
 
-          {/* Footer */}
-          <footer className="max-w-6xl mx-auto mt-16 mb-8 text-center text-gray-300 px-4 py-20">
+        {/* Footer */}
+        <footer className="bg-black/50 py-12">
+          <div className="justify-center items-center flex flex-col">
             <p className="mb-4 text-[32px] font-bold pb-10 bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
               Organized by IOTA
             </p>
-            <div className="flex flex-col md:flex-row justify-center items-center gap-8 ">
-              <div className="flex items-center gap-2">
-                <img
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0"
-                  alt="Chahat"
-                  className="rounded-full ring-2 ring-purple-500/50 h-10"
-                />
-                <div className="text-left">
-                  <p className="font-medium text-white">Chahat Kesharwani</p>
-                  <div className="flex gap-2">
-                    <a
-                      target="_blank"
-                      href="https://github.com/chahatkesh"
-                      className="text-gray-300 hover:text-purple-400 transition-colors">
-                      <Github size={16} />
-                    </a>
-                    <a
-                      target="_blank"
-                      href="https://www.linkedin.com/in/chahatkesharwani/"
-                      className="text-gray-300 hover:text-purple-400 transition-colors">
-                      <Linkedin size={16} />
-                    </a>
+          </div>
+          <div className="max-w-7xl mx-auto px-6">
+            <div className="bg-blue-900/20 backdrop-blur-xl rounded-2xl p-8 border border-blue-400/10">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                {organizers.map((organizer, index) => (
+                  <div
+                    key={index}
+                    className="flex items-center gap-6 p-4 bg-blue-950/30 rounded-xl">
+                    <img
+                      src={organizer.image}
+                      alt={organizer.name}
+                      className="w-16 h-16 rounded-lg object-cover ring-2 ring-blue-400/30"
+                    />
+                    <div>
+                      <p className="font-bold text-xl text-white mb-1">
+                        {organizer.name}
+                      </p>
+                      <p className="text-blue-200 text-sm mb-2">
+                        {organizer.role}
+                      </p>
+                      <div className="flex gap-3">
+                        {organizer.github && (
+                          <a
+                            href={organizer.github}
+                            className="text-blue-300 hover:text-blue-200"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            <Github size={18} />
+                          </a>
+                        )}
+                        <a
+                          href={organizer.linkedin}
+                          className="text-blue-300 hover:text-blue-200"
+                          target="_blank"
+                          rel="noopener noreferrer">
+                          <Linkedin size={18} />
+                        </a>
+                      </div>
+                    </div>
                   </div>
+                ))}
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 py-4 border-t border-blue-400/10">
+                <div className="flex items-center justify-center gap-2 text-blue-200">
+                  <Mail size={18} />
+                  <span>iota@nitj.ac.in</span>
+                </div>
+                <div className="flex items-center justify-center gap-4">
+                  <a
+                    href="https://www.instagram.com/iota_nitj/"
+                    className="text-blue-300 hover:text-blue-200">
+                    <Instagram size={20} />
+                  </a>
+                  <a
+                    href="https://www.linkedin.com/company/iota-community/"
+                    className="text-blue-300 hover:text-blue-200">
+                    <Linkedin size={20} />
+                  </a>
+                </div>
+                <div className="flex items-center justify-center gap-2 text-blue-200">
+                  <MapPin size={18} />
+                  <span>NIT Jalandhar, Punjab</span>
                 </div>
               </div>
-              <div className="flex items-center gap-2">
-                <img
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQGa2CLsxKjFMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720478995462?e=1741219200&v=beta&t=00j_WHpSPxzdQ0DGPIOSCTSkqZQ7zzTzwvFLaY268Ik"
-                  alt="Saumya"
-                  className="rounded-full ring-2 ring-pink-500/50 h-10"
-                />
-                <div className="text-left">
-                  <p className="font-medium text-white">Saumya</p>
-                  <div className="flex gap-2">
-                    <a
-                      target="_blank"
-                      href=""
-                      className="text-gray-300 hover:text-pink-400 transition-colors">
-                      <Github size={16} />
-                    </a>
-                    <a
-                      target="_blank"
-                      href="https://www.linkedin.com/in/saumya-252812274/"
-                      className="text-gray-300 hover:text-pink-400 transition-colors">
-                      <Linkedin size={16} />
-                    </a>
-                  </div>
-                </div>
+
+              <div className="text-center text-blue-200/60 text-sm mt-6">
+                &copy; {new Date().getFullYear()} IOTA - NIT Jalandhar. All
+                rights reserved.
               </div>
             </div>
-          </footer>
-        </div>
+          </div>
+        </footer>
       </div>
     </>
   );
