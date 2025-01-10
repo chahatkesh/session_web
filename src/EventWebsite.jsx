@@ -127,20 +127,20 @@ const EventWebsite = () => {
       },
     },
     {
-      title: "UI/UX Design",
+      title: "Git and GitHub",
       date: "Jan 10, 2025",
-      icon: Palette,
-      color: "from-orange-500 to-pink-500",
+      icon: Github,
+      color: "from-gray-600 to-gray-900",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
         "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
-        name: "Chahat Kesharwani",
+        name: "Jayant Joshi",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
-        github: "https://github.com/chahatkesh/",
-        linkedin: "https://linkedin.com/in/chahatkesharwani/",
+          "https://media.licdn.com/dms/image/v2/D5635AQFtOIxrtI0X-g/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1731763231665?e=1736582400&v=beta&t=gpI2beK4vfoUnEatv7cuvmnTN4SQ5CETpPkWTta96K8",
+        github: "https://github.com/JAYANTJOSHI001",
+        linkedin: "https://www.linkedin.com/in/jayant-joshi-642a79305/",
       },
     },
     {
@@ -161,20 +161,20 @@ const EventWebsite = () => {
       },
     },
     {
-      title: "Git and GitHub",
+      title: "UI/UX Design",
       date: "Jan 12, 2025",
-      icon: Github,
-      color: "from-gray-600 to-gray-900",
+      icon: Palette,
+      color: "from-orange-500 to-pink-500",
       slides:
         "https://drive.google.com/drive/folders/1vHtkiQrH5Hxq_o62YgAsXY5PamFFCYeQ?usp=sharing",
       video:
         "https://www.youtube.com/playlist?list=PLDBm9gwFY2vvyK3DtBYVcOXXrypakj_Vd",
       speaker: {
-        name: "Jayant Joshi",
+        name: "Chahat Kesharwani",
         image:
-          "https://media.licdn.com/dms/image/v2/D5635AQFtOIxrtI0X-g/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1731763231665?e=1736582400&v=beta&t=gpI2beK4vfoUnEatv7cuvmnTN4SQ5CETpPkWTta96K8",
-        github: "https://github.com/JAYANTJOSHI001",
-        linkedin: "https://www.linkedin.com/in/jayant-joshi-642a79305/",
+          "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
+        github: "https://github.com/chahatkesh/",
+        linkedin: "https://linkedin.com/in/chahatkesharwani/",
       },
     },
   ];
