@@ -476,13 +476,6 @@ const EventWebsite = () => {
                   <div className="flex gap-3 mt-4">
                     <a
                       target="_blank"
-                      href={session.meet}
-                      className="flex items-center gap-1 text-sm bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-colors">
-                      <ExternalLink size={14} />
-                      Join
-                    </a>
-                    <a
-                      target="_blank"
                       href={session.slides}
                       className="flex items-center gap-1 text-sm bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-colors">
                       <FilePresentation size={14} />
