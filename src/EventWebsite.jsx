@@ -36,7 +36,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Vedant Salve",
         image:
-          "https://media.licdn.com/dms/image/v2/D5603AQGUQV8LelTbDQ/profile-displayphoto-shrink_800_800/B56ZQqgaukGsAg-/0/1735879930430?e=1741824000&v=beta&t=tq2bHhyEI1MG-o77SAxcW0WGfFljip_u76LEaaYhkqI",
+          "https://media.licdn.com/dms/image/v2/D5603AQGUQV8LelTbDQ/profile-displayphoto-shrink_800_800/B56ZQqgaukGsAg-/0/1735879930430?e=1769040000&v=beta&t=amDbtKW5FDEpOivABiWX6Jn8zbglw3lUPXnCF0Xjy2A",
         github: "https://github.com/Vedant-Salve",
         linkedin: "https://www.linkedin.com/in/vedant-salve-92380b312/",
       },
@@ -53,7 +53,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Nidhi Yadav",
         image:
-          "https://media.licdn.com/dms/image/v2/D5603AQEnNpmRcdy53A/profile-displayphoto-shrink_800_800/B56ZPlE.sFHoAc-/0/1734715115385?e=1741219200&v=beta&t=ctjAcY9slCR-kcdbw5E_iASkEwrCgXIFIQL0Zi8Eg3w",
+          "https://media.licdn.com/dms/image/v2/D5603AQG9rgf1qauUOg/profile-displayphoto-crop_800_800/B56ZiUe2qaHQAI-/0/1754837776013?e=1769040000&v=beta&t=WT7pzz-g-ZDcpqbfFbFAHHXXDW29Z2YjT2aNzApRWUc",
         github: "",
         linkedin: "https://www.linkedin.com/in/nidhi-yadav-821404290/",
       },
@@ -70,7 +70,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Mohit Ranjan",
         image:
-          "https://media.licdn.com/dms/image/v2/D4E03AQEnsWgwGRUPAQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729770463518?e=1741219200&v=beta&t=dm_MF1vcbVN3bp1MapoFgQq2Fc9zSyYJv8Mkfq__6EI",
+          "https://media.licdn.com/dms/image/v2/D5635AQEe43AIBMOC-Q/profile-framedphoto-shrink_800_800/B56ZmdRLuKG4Ag-/0/1759280151714?e=1767805200&v=beta&t=sNoQuE0Aq_if-F2D2ycOCeOwy-JSnO8bLgbVdfV2MuQ",
         github: "",
         linkedin: "https://www.linkedin.com/in/itsmohitr/",
       },
@@ -87,7 +87,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Harshvardhan Agarwal",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D03AQG8eXHcrE9JEA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693983521059?e=1741219200&v=beta&t=0HF6DUpMeDXlW0yfMHkJBid-8_FQywwE06rSocXcKsQ",
+          "https://media.licdn.com/dms/image/v2/D5603AQFW8zozbiL-sQ/profile-displayphoto-crop_800_800/B56ZnScNsaIYAI-/0/1760172240702?e=1769040000&v=beta&t=92Jts9CxVV2SvddT9h_0or6ijoaeRr_10RHj97FV_XM",
         github: "https://github.com/Harshvardhan-91",
         linkedin: "https://www.linkedin.com/in/harshvardhan-agarwal-605931281/",
       },
@@ -104,7 +104,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Shashank Singh",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D03AQFk56qhuMpoDA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699990386419?e=1741219200&v=beta&t=gSgYxhwHMj-MlxCq4M87zOR9rfyvBtLHx_miHLpxzJU",
+          "https://media.licdn.com/dms/image/v2/D5603AQHYxCoGgeR0vg/profile-displayphoto-crop_800_800/B56ZnOoF4LH8AI-/0/1760108241175?e=1769040000&v=beta&t=_psGN2v6nFBO5utgQ0iYhVFHrrcaXo8-xzSGHcmTq2s",
         github: "",
         linkedin: "https://www.linkedin.com/in/shashank-singh-584860280/",
       },
@@ -121,7 +121,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Vatsal Khanna",
         image:
-          "https://media.licdn.com/dms/image/v2/D4E03AQGBwIJdp-bJeQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728579143693?e=1741219200&v=beta&t=L0B61qKKRKdE0QuTzfnsxGG81y3LLmqpW0eM2L43nFM",
+          "https://media.licdn.com/dms/image/v2/D5603AQFfZpn2T-5nFQ/profile-displayphoto-crop_800_800/B56ZqHELgwHIAI-/0/1763202613789?e=1769040000&v=beta&t=5zS-emD7vq6Ot5BcvhKORZCm-ayRqw_Yp4EJgz0MxA8",
         github: "https://github.com/vatsalKhanna5/",
         linkedin: "https://www.linkedin.com/in/vatsalkhanna/",
       },
@@ -138,7 +138,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Jayant Joshi",
         image:
-          "https://media.licdn.com/dms/image/v2/D5635AQFtOIxrtI0X-g/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1731763231665?e=1736582400&v=beta&t=gpI2beK4vfoUnEatv7cuvmnTN4SQ5CETpPkWTta96K8",
+          "https://media.licdn.com/dms/image/v2/D5635AQFtOIxrtI0X-g/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1731763231665?e=1767805200&v=beta&t=M6CCr3ELJ_ZZINuOBqM13oEcQa2vPic3CW8iZ483mbc",
         github: "https://github.com/JAYANTJOSHI001",
         linkedin: "https://www.linkedin.com/in/jayant-joshi-642a79305/",
       },
@@ -155,9 +155,9 @@ const EventWebsite = () => {
       speaker: {
         name: "Bhavya Goyal",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D03AQFtBbUGF79odw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689836892765?e=1741219200&v=beta&t=1KToF_ObgbmUlia4psHyQHrCljG7v-bhfSVBnkfJZL4",
+          "https://media.licdn.com/dms/image/v2/D4D03AQFtBbUGF79odw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689836892765?e=1769040000&v=beta&t=i77Mq_L0gnpST0c_khmKWsc9KwHv37-pIGPMk3IjNb0",
         github: "https://github.com/BhavyaSpace/",
-        linkedin: "https://www.linkedin.com/in/bhavyaspace/",
+        linkedin: "https://www.linkedin.com/in/martianbhavya/",
       },
     },
     {
@@ -172,7 +172,7 @@ const EventWebsite = () => {
       speaker: {
         name: "Chahat Kesharwani",
         image:
-          "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
+          "https://media.licdn.com/dms/image/v2/D5603AQENMwgP4jiscQ/profile-displayphoto-crop_800_800/B56Zff6.GvGQAI-/0/1751808468244?e=1769040000&v=beta&t=wd0O1b3lQCM6F0hyBhlhLfeTlxlgqQVQCOCUjhlcqF0",
         github: "https://github.com/chahatkesh/",
         linkedin: "https://linkedin.com/in/chahatkesharwani/",
       },
@@ -184,7 +184,7 @@ const EventWebsite = () => {
       name: "Chahat Kesharwani",
       role: "Session Organiser",
       image:
-        "https://media.licdn.com/dms/image/v2/D4D03AQGYfizBcQGVXA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698137364469?e=1741219200&v=beta&t=R7fzAqHEFVmY0NXMemIuDu7LgzD5RFz3BP3rUcy1mS0",
+        "https://media.licdn.com/dms/image/v2/D5603AQENMwgP4jiscQ/profile-displayphoto-crop_800_800/B56Zff6.GvGQAI-/0/1751808468244?e=1769040000&v=beta&t=wd0O1b3lQCM6F0hyBhlhLfeTlxlgqQVQCOCUjhlcqF0",
       github: "https://github.com/chahatkesh",
       linkedin: "https://www.linkedin.com/in/chahatkesharwani/",
     },
@@ -192,7 +192,7 @@ const EventWebsite = () => {
       name: "Saumya",
       role: "Session Organiser",
       image:
-        "https://media.licdn.com/dms/image/v2/D4D03AQGa2CLsxKjFMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720478995462?e=1741219200&v=beta&t=00j_WHpSPxzdQ0DGPIOSCTSkqZQ7zzTzwvFLaY268Ik",
+        "https://media.licdn.com/dms/image/v2/D4D03AQGc9kP1PhgsyA/profile-displayphoto-shrink_800_800/B4DZZ8zBYwHIAc-/0/1745850472892?e=1769040000&v=beta&t=svrVrPMsjJeKdMa0Lyarln1_5NJJfRhhZHyZ8AsGWDo",
       github: "#",
       linkedin: "https://www.linkedin.com/in/saumya-252812274/",
     },
@@ -384,28 +384,15 @@ const EventWebsite = () => {
                         </div>
                       </div>
 
-                      <div className="flex gap-3 mt-4">
+                      <div className="mt-4">
                         <a
                           href={session.slides}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="flex items-center gap-2 text-sm bg-white/20 px-4 py-2 rounded-lg 
-                            hover:bg-white/30 transition-colors group flex-1 justify-center">
+                            hover:bg-white/30 transition-colors group justify-center w-full">
                           <FilePresentation size={16} />
                           <span>View Slides</span>
-                          <ExternalLink
-                            size={12}
-                            className="opacity-0 group-hover:opacity-100 transition-opacity"
-                          />
-                        </a>
-                        <a
-                          href={session.video}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="flex items-center gap-2 text-sm bg-white/20 px-4 py-2 rounded-lg 
-                            hover:bg-white/30 transition-colors group flex-1 justify-center">
-                          <Video size={16} />
-                          <span>Watch Recording</span>
                           <ExternalLink
                             size={12}
                             className="opacity-0 group-hover:opacity-100 transition-opacity"
@@ -473,20 +460,13 @@ const EventWebsite = () => {
                     </div>
                   </div>
 
-                  <div className="flex gap-3 mt-4">
+                  <div className="mt-4">
                     <a
                       target="_blank"
                       href={session.slides}
-                      className="flex items-center gap-1 text-sm bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-colors">
-                      <FilePresentation size={14} />
-                      Slides
-                    </a>
-                    <a
-                      target="_blank"
-                      href={session.video}
-                      className="flex items-center gap-1 text-sm bg-white/20 px-3 py-1 rounded-full hover:bg-white/30 transition-colors">
-                      <Video size={14} />
-                      Recording
+                      className="flex items-center justify-center gap-2 text-sm bg-white/20 px-4 py-2 rounded-full hover:bg-white/30 transition-colors w-full">
+                      <FilePresentation size={16} />
+                      <span>View Slides</span>
                     </a>
                   </div>
                 </Card>
